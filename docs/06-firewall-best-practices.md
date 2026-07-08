@@ -1,4 +1,3 @@
-# Chapter 06
 # Firewall Best Practices
 
 > *A firewall is not merely a packet filtering mechanism. It is one of the primary security controls that defines the trust boundaries of an enterprise network. A well-designed firewall policy protects business assets, reduces attack surfaces, and enforces organizational security policies consistently across the infrastructure.*
@@ -191,7 +190,7 @@ Enterprise firewall management is therefore an ongoing operational process rathe
 
 ## Further Reading
 
-- Chapter 03 – RouterOS Updates
-- Chapter 05 – Service Hardening
-- Chapter 07 – VPN Security
-- Chapter 10 – Monitoring
+- 03 – RouterOS Updates
+- 05 – Service Hardening
+- 07 – VPN Security
+-10 – Monitoring
