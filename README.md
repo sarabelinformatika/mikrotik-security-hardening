@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./images/mikrotik-security-hardening.jpg" alt="SARABEL Informatika Banner" width="100%">
+</p>
+
 # MikroTik Security Hardening Guide
 
 > Enterprise MikroTik RouterOS security hardening guide, operational best practices and security checklist for business environments.
