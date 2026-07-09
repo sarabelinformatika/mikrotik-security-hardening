@@ -187,3 +187,17 @@ These practices unnecessarily increase organizational risk.
 - Individual accountability improves operational security.
 - Strong authentication protects critical infrastructure.
 - Regular account reviews are an essential part of RouterOS security.
+
+---
+
+## Further Reading
+
+- [RouterOS Updates](03-routeros-updates.md)
+- [Service Hardening](05-service-hardening.md)
+- [VPN Security](07-vpn-security.md)
+
+---
+
+**Next Chapter →**
+
+[Service Hardening](05-service-hardening.md)
