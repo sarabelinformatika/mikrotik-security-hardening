@@ -172,10 +172,18 @@ Incident response is not defined by how incidents begin, but by how effectively 
 
 ---
 
+---
+
 ## Further Reading
 
-- 10 – Monitoring
-- 11 – Logging
-- 12 – Backup
-- 13 – Maintenance
-- 15 – Security Checklist
+- [Monitoring](10-monitoring.md)
+- [Logging](11-logging.md)
+- [Backup](12-backup.md)
+- [Maintenance](13-maintenance.md)
+- [Security Checklist](15-security-checklist.md)
+
+---
+
+**Next Chapter →**
+
+[Security Checklist](15-security-checklist.md)
