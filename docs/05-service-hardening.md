@@ -171,3 +171,17 @@ Reducing unnecessary services significantly decreases the available attack surfa
 - Administrative interfaces should never be unnecessarily exposed.
 - Regular service reviews improve long-term security.
 - A smaller attack surface results in a more resilient RouterOS deployment.
+
+---
+
+## Further Reading
+
+- [User Management](04-user-management.md)
+- [Firewall Best Practices](06-firewall-best-practices.md)
+- [VPN Security](07-vpn-security.md)
+
+---
+
+**Next Chapter →**
+
+[Firewall Best Practices](06-firewall-best-practices.md)
