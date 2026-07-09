@@ -141,9 +141,17 @@ Well-defined operational processes do.
 
 ---
 
+---
+
 ## Further Reading
 
-- 06 – Firewall Best Practices
-- 07 – VPN Security
-- 10 – Monitoring
-- 11 – Logging
+- [Firewall Best Practices](06-firewall-best-practices.md)
+- [VPN Security](07-vpn-security.md)
+- [Monitoring](10-monitoring.md)
+- [Logging](11-logging.md)
+
+---
+
+**Next Chapter →**
+
+[IPv6 Security](09-ipv6-security.md)
