@@ -123,3 +123,17 @@ Throughout this guide, every recommendation follows five core principles:
 5. Build resilient network infrastructures.
 
 These principles form the foundation of every chapter that follows.
+
+---
+
+## Further Reading
+
+- [Threat Model](02-threat-model.md)
+- [RouterOS Updates](03-routeros-updates.md)
+- [User Management](04-user-management.md)
+
+---
+
+**Next Chapter →**
+
+[Threat Model](02-threat-model.md)
