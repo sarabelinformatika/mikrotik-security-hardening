@@ -188,9 +188,17 @@ Enterprise firewall management is therefore an ongoing operational process rathe
 
 ---
 
+---
+
 ## Further Reading
 
-- 03 – RouterOS Updates
-- 05 – Service Hardening
-- 07 – VPN Security
--10 – Monitoring
+- [RouterOS Updates](03-routeros-updates.md)
+- [Service Hardening](05-service-hardening.md)
+- [VPN Security](07-vpn-security.md)
+- [Monitoring](10-monitoring.md)
+
+---
+
+**Next Chapter →**
+
+[VPN Security](07-vpn-security.md)
