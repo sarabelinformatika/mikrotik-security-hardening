@@ -167,9 +167,17 @@ Business continuity depends not on the existence of backups, but on the organiza
 
 ---
 
+---
+
 ## Further Reading
 
-- 10 – Monitoring
-- 11 – Logging
-- 13 – Maintenance
-- 14 – Incident Response
+- [Monitoring](10-monitoring.md)
+- [Logging](11-logging.md)
+- [Maintenance](13-maintenance.md)
+- [Incident Response](14-incident-response.md)
+
+---
+
+**Next Chapter →**
+
+[Maintenance](13-maintenance.md)
