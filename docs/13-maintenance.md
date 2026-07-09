@@ -180,10 +180,18 @@ Security is not maintained through isolated technical actions, but through consi
 
 ---
 
+---
+
 ## Further Reading
 
-- 03 – RouterOS Updates
-- 10 – Monitoring
-- 11 – Logging
-- 12 – Backup
-- 14 – Incident Response
+- [RouterOS Updates](03-routeros-updates.md)
+- [Monitoring](10-monitoring.md)
+- [Logging](11-logging.md)
+- [Backup](12-backup.md)
+- [Incident Response](14-incident-response.md)
+
+---
+
+**Next Chapter →**
+
+[Incident Response](14-incident-response.md)
