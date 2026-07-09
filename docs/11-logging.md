@@ -163,9 +163,17 @@ Organizations should treat logging as a strategic operational capability rather 
 
 ---
 
+---
+
 ## Further Reading
 
-- 06 – Firewall Best Practices
-- 10 – Monitoring
-- 12 – Backup
-- 14 – Incident Response
+- [Firewall Best Practices](06-firewall-best-practices.md)
+- [Monitoring](10-monitoring.md)
+- [Backup](12-backup.md)
+- [Incident Response](14-incident-response.md)
+
+---
+
+**Next Chapter →**
+
+[Backup](12-backup.md)
