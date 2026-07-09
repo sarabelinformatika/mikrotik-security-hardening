@@ -143,9 +143,17 @@ Secure IPv6 deployments result from careful planning rather than default configu
 
 ---
 
+---
+
 ## Further Reading
 
-- 03 – RouterOS Updates
-- 06 – Firewall Best Practices
-- 10 – Monitoring
-- 11 – Logging
+- [RouterOS Updates](03-routeros-updates.md)
+- [Firewall Best Practices](06-firewall-best-practices.md)
+- [Monitoring](10-monitoring.md)
+- [Logging](11-logging.md)
+
+---
+
+**Next Chapter →**
+
+[Monitoring](10-monitoring.md)
