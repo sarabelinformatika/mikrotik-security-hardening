@@ -171,3 +171,17 @@ Together, these measures significantly reduce the likelihood and impact of succe
 - Routers are valuable targets for attackers.
 - Defense in Depth provides stronger protection than relying on a single control.
 - Risk reduction is an ongoing operational process rather than a one-time task.
+---
+
+## Further Reading
+
+- [Introduction](01-introduction.md)
+- [RouterOS Updates](03-routeros-updates.md)
+- [Service Hardening](05-service-hardening.md)
+
+---
+
+**Next Chapter →**
+
+[RouterOS Updates](03-routeros-updates.md)
+
