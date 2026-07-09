@@ -132,9 +132,17 @@ Organizations should view VPN security as an ongoing operational discipline rath
 
 ---
 
+---
+
 ## Further Reading
 
-- 04 – User Management
-- 06 – Firewall Best Practices
-- 08 – WireGuard
-- 10 – Monitoring
+- [User Management](04-user-management.md)
+- [Firewall Best Practices](06-firewall-best-practices.md)
+- [WireGuard](08-wireguard.md)
+- [Monitoring](10-monitoring.md)
+
+---
+
+**Next Chapter →**
+
+[WireGuard](08-wireguard.md)
