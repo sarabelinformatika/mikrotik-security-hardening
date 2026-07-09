@@ -186,3 +186,17 @@ Avoid the following practices:
 - Every upgrade should follow a documented process.
 - Stable releases are recommended for production environments.
 - Backups and post-upgrade verification are essential components of secure maintenance.
+
+---
+
+## Further Reading
+
+- [Threat Model](02-threat-model.md)
+- [User Management](04-user-management.md)
+- [Service Hardening](05-service-hardening.md)
+
+---
+
+**Next Chapter →**
+
+[User Management](04-user-management.md)
