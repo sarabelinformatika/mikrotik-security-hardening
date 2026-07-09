@@ -183,9 +183,17 @@ Organizations should treat monitoring as a core business function rather than an
 
 ---
 
+---
+
 ## Further Reading
 
-- 06 – Firewall Best Practices
-- 07 – VPN Security
-- 11 – Logging
-- 12 – Backup
+- [Firewall Best Practices](06-firewall-best-practices.md)
+- [VPN Security](07-vpn-security.md)
+- [Logging](11-logging.md)
+- [Backup](12-backup.md)
+
+---
+
+**Next Chapter →**
+
+[Logging](11-logging.md)
